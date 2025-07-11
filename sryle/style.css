@@ -7,6 +7,8 @@
 /*shared style */
 .text-primary{
     color: #4E47FF;
+    font-weight:bolder;
+    font-size: 50px;
 }
 .btn-primary{
     background-color: #4E47FF;
@@ -39,12 +41,62 @@ nav{
 }
 .banner{
     display: flex;
-    justify-content: center;
-    min-width: 905px;
-    margin: 200px 265.5px 400px 265.5px ;
+    justify-content:center;
+    
 }
 .banner-content{
     max-width: 905px;
+    margin-bottom: 150px;
+    text-align: center;
+    
 }
+/* main*/
+
+.main-1{display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    margin-top: 135px;
+
+}
+.main{
+    margin: 62.5px 220px 62.5px -0;
+}
+.p{
+    color: #545361;
+}
+.img-1{
+max-width: 403;
+border-radius: 48px;}
+    /*main-2*/
+    main{
+        max-width: 1140px;
+        margin: 0 auto;
+
+    }
+    .section-1{
+        background-color: #d5d8f3;
+        padding: 50px 142px;
+        text-align: center;
+        margin-top: 166px;
+    }
+    .h2-2{
+        font-size: 42px;
+        font-weight: bold;
+
+    }
+    .users-01{
+        display: flex;
+        justify-content: space-around;
+    }
+    .item-title{
+        font-weight: bold;
+        font-size: 80px;
+        color: #4E47FF;
+        margin-top: 0%;
+        margin-bottom: 0%;
+    }
+      
+    
+
 
     
