@@ -79,6 +79,8 @@ border-radius: 48px;}
         padding: 50px 142px;
         text-align: center;
         margin-top: 166px;
+        border-radius: 20px;
+
     }
     .h2-2{
         font-size: 42px;
@@ -115,9 +117,10 @@ border-radius: 48px;}
     margin-right: 120px;
 }
 .user-3{
-    background-color:aliceblue;
+    background-color:rgb(240, 247, 253);
     margin-top: 10px;
     border-radius: 70px;
+    
 
 }
     .img-2{
@@ -167,7 +170,7 @@ margin-bottom: 30px;}
 
   
   
-}
+
 
 .form-group {
   margin-bottom: 20px;
